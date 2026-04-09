@@ -51,4 +51,4 @@ Wszelkie zmiany będą publikowane na tej stronie.
 
 W razie pytań dotyczących polityki prywatności prosimy o kontakt:
 
-**[TU WPISZ SWÓJ EMAIL]**
+**ma.kosicki95@gmail.com**
