@@ -2,15 +2,31 @@
 
 ## Informacje ogólne
 
-Aplikacja **Pixel Miner** nie zbiera, nie przechowuje ani nie przetwarza danych osobowych użytkowników.
+Aplikacja **Pixel Miner** działa głównie w trybie offline i nie wymaga tworzenia konta ani logowania.
 
-Aplikacja działa w trybie offline i nie wymaga tworzenia konta ani logowania.
+Aplikacja może zbierać anonimowe dane techniczne oraz dane analityczne związane z działaniem gry w celu poprawy jakości aplikacji, balansu rozgrywki oraz stabilności działania.
+
+---
+
+## Dane analityczne
+
+Aplikacja może automatycznie zbierać anonimowe dane dotyczące korzystania z gry, takie jak:
+
+* anonimowy identyfikator gracza (`playerId`)
+* zdarzenia związane z rozgrywką (np. postęp gry, ukończone akcje, statystyki)
+* informacje techniczne o aplikacji i urządzeniu
+
+Dane te:
+
+* nie służą do identyfikacji użytkownika,
+* są wykorzystywane wyłącznie do analizy działania aplikacji i ulepszania gry,
+* nie są sprzedawane podmiotom trzecim.
 
 ---
 
 ## Reklamy i usługi zewnętrzne
 
-Aplikacja korzysta z usług reklamowych dostarczanych przez **Google**, takich jak Google AdMob.
+Aplikacja korzysta z usług reklamowych dostarczanych przez Google, takich jak Google AdMob.
 
 Usługi te mogą automatycznie zbierać anonimowe dane techniczne, w tym:
 
@@ -23,26 +39,26 @@ Dane te są wykorzystywane wyłącznie w celu:
 * wyświetlania reklam
 * analizy skuteczności reklam
 
-Więcej informacji można znaleźć tutaj:
+Więcej informacji:
 https://policies.google.com/privacy
 
 ---
 
 ## Udostępnianie danych
 
-Aplikacja nie udostępnia żadnych danych osobowych użytkowników.
+Aplikacja nie sprzedaje danych użytkowników i nie udostępnia danych osobowych podmiotom trzecim, poza usługami niezbędnymi do działania reklam i analityki.
 
 ---
 
 ## Bezpieczeństwo
 
-Aplikacja nie przechowuje danych użytkownika, dlatego ryzyko związane z ich utratą jest ograniczone.
+Dane analityczne są ograniczone do minimum niezbędnego do działania i rozwoju aplikacji.
 
 ---
 
 ## Zmiany w polityce prywatności
 
-Polityka prywatności może być aktualizowana w przyszłości.
+Polityka prywatności może być aktualizowana w przyszłości.  
 Wszelkie zmiany będą publikowane na tej stronie.
 
 ---
